@@ -1,1 +1,1 @@
-{"notebooks": ["PyData-Citibike.ipynb"], "envfile": null, "public": true, "name": "pydata_citibike", "description": null}
+{"public": true, "notebooks": ["PyData-Citibike.ipynb"], "envfile": null, "description": null, "name": "pydata_citibike"}
